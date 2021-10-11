@@ -71,6 +71,8 @@ body::-webkit-scrollbar {
 
 .nav-menu li a {
     transition: color 0.5s, border-bottom 4s;
+    font-size: 1.4rem;
+    
 }
 
 .nav-menu li a:hover {
